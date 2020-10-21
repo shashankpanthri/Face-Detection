@@ -22,6 +22,19 @@ For more in-depth explanation : https://opencv-python-tutroals.readthedocs.io/en
 
 
 ----------------------------
+### Some sample image results
+----------------------------
+
+![1](https://user-images.githubusercontent.com/55807308/96685119-4d6fdc80-139a-11eb-9197-990a2b6797ac.jpg)
+
+![2](https://user-images.githubusercontent.com/55807308/96685297-890aa680-139a-11eb-91cf-a6858f412008.jpg)
+
+![3](https://user-images.githubusercontent.com/55807308/96685306-8c9e2d80-139a-11eb-8882-a644d6994667.jpg)
+
+![4](https://user-images.githubusercontent.com/55807308/96685315-8f991e00-139a-11eb-8217-43b2410bfe6c.jpg)
+
+
+----------------------------
 ### Pros of using Haarcascade Classifiers
 ----------------------------
 
