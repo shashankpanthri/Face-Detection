@@ -1,5 +1,4 @@
-# Haarcascade Face Detection  ![python](https://img.shields.io/badge/python-3-blue) ![OpenCV](https://img.shields.io/badge/open-cv-yellowgreen) 
-![jupyter-notebook](https://img.shields.io/badge/jupyter%20-notebook-blue)
+# Haarcascade Face Detection  ![python](https://img.shields.io/badge/python-3-blue) ![OpenCV](https://img.shields.io/badge/open-cv-yellowgreen) ![jupyter-notebook](https://img.shields.io/badge/jupyter%20-notebook-blue)
 
 ----------------------------
 ### ABOUT THE PROJECT
@@ -32,6 +31,13 @@ For more in-depth explanation : https://opencv-python-tutroals.readthedocs.io/en
 ![3](https://user-images.githubusercontent.com/55807308/96685306-8c9e2d80-139a-11eb-8882-a644d6994667.jpg)
 
 ![4](https://user-images.githubusercontent.com/55807308/96685315-8f991e00-139a-11eb-8217-43b2410bfe6c.jpg)
+
+
+----------------------------
+### Sample live-video results
+----------------------------
+
+![video_face_detection_gif](https://user-images.githubusercontent.com/55807308/96687313-58783c00-139d-11eb-9dd8-42a5cd5ed688.gif)
 
 
 ----------------------------
