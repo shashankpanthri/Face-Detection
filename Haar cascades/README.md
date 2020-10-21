@@ -58,7 +58,8 @@ For more in-depth explanation : https://opencv-python-tutroals.readthedocs.io/en
 
 1. This method is not very accurate and requres a certain scenario i.e. face looking directly at the camera to work.
 2. The biggest drawback is that it gives a lot of false positives i.e. detecting a face where there is no face.
-3. As discussed above, it does not work with non-frontal images.
+3. Another big drawback is that it requires the face to be the most prominent in the picutre i.e. the face should be the biggest part of the photo.
+4. As discussed above, it does not work with non-frontal images.
 
 ----------------------------
 ### Best use case for Haarcascade Classifiers
