@@ -30,7 +30,11 @@ For more in-depth explanation : https://opencv-python-tutroals.readthedocs.io/en
 
 ![3](https://user-images.githubusercontent.com/55807308/96685306-8c9e2d80-139a-11eb-8882-a644d6994667.jpg)
 
-![4](https://user-images.githubusercontent.com/55807308/96685315-8f991e00-139a-11eb-8217-43b2410bfe6c.jpg)
+![5](https://user-images.githubusercontent.com/55807308/96701738-8f0a8280-13ae-11eb-974c-7003bd90ad01.jpg)
+
+![6](https://user-images.githubusercontent.com/55807308/96701761-9467cd00-13ae-11eb-92db-28f7504f3d8a.jpg)
+
+![7](https://user-images.githubusercontent.com/55807308/96701768-96319080-13ae-11eb-86da-34c2ab60a623.jpg)
 
 
 ----------------------------
