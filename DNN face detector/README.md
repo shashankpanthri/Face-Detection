@@ -30,6 +30,17 @@ More detailed explanation about the model and its arguments is in the notebooks.
 
 For more in-depth explanation : https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
 
+----------------------------
+### Files
+----------------------------
+
+1. model- contains the model files used in the project.
+2. sample images - some images to test the model on.
+3. image_face_detection - the notebook with code on image face detection.
+4. video_face_detecion - the notebook with code on video face detection.
+5. readme - this file you are reading.
+6. face_detection video - live detection video.
+
 
 ----------------------------
 ### Some sample image results

@@ -23,6 +23,17 @@ For more in-depth explanation : https://opencv-python-tutroals.readthedocs.io/en
 
 
 ----------------------------
+### Files
+----------------------------
+
+1. classifier - contains the haar cascade classifier used.
+2. sample images - some images to test the model on.
+3. image_face_detection - the notebook with code on image face detection.
+4. video_face_detecion - the notebook with code on video face detection.
+5. readme - this file you are reading.
+6. face_detection video - live detection video.
+
+----------------------------
 ### Some sample image results
 ----------------------------
 
