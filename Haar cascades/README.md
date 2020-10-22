@@ -17,6 +17,8 @@ a lot of positive and negative images.
 - Positive images – These images contain the images which we want our classifier to identify.
 - Negative Images – Images of everything else, which do not contain the object we want to detect
 
+More detailed explanation about model and its arguments is in the notebook.
+
 For more in-depth explanation : https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
 
 
@@ -35,6 +37,9 @@ For more in-depth explanation : https://opencv-python-tutroals.readthedocs.io/en
 ![6](https://user-images.githubusercontent.com/55807308/96701761-9467cd00-13ae-11eb-92db-28f7504f3d8a.jpg)
 
 ![7](https://user-images.githubusercontent.com/55807308/96701768-96319080-13ae-11eb-86da-34c2ab60a623.jpg)
+
+![4](https://user-images.githubusercontent.com/55807308/96835328-131d4280-1461-11eb-822f-28c8f5d84944.jpg)
+
 
 
 ----------------------------
@@ -57,9 +62,11 @@ For more in-depth explanation : https://opencv-python-tutroals.readthedocs.io/en
 ----------------------------
 
 1. This method is not very accurate and requres a certain scenario i.e. face looking directly at the camera to work.
-2. The biggest drawback is that it gives a lot of false positives i.e. detecting a face where there is no face.
-3. Another big drawback is that it requires the face to be the most prominent in the picutre i.e. the face should be the biggest part of the photo.
-4. As discussed above, it does not work with non-frontal images.
+2. The reason it is working fairly well here is because we added some additional arguments to the default model to make it more accurate.
+ If this was the default model, the accuracy would have been a lot less.
+3. The biggest drawback is that it gives a lot of false positives i.e. detecting a face where there is no face.
+4. Another big drawback is that it requires the face to be the most prominent in the picutre i.e. the face should be the biggest part of the photo.
+5. As discussed above, it does not work with non-frontal images.
 
 ----------------------------
 ### Best use case for Haarcascade Classifiers
